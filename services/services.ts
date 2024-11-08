@@ -1,6 +1,6 @@
 import { newModel } from "../models/usermodel";
 import bcrypt from "bcrypt";
-import jwt from "jsonwebtoken"
+import jwt from "jsonwebtoken";
 // function register :
 
 interface registerparams{
